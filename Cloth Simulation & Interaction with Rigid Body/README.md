@@ -15,4 +15,6 @@ There are two methods applied to it.
   
   ---
 * As an alternative way, PBD method (position based dynamics) is also used.
+* To be exact, the position of the vertices is updated by gravity and friction. 
+* After that, the stiffness of the springs is considered and change the position one more time.
 * To make the result more accurate, the method is in the Jacobi style instead of Gauss-Seidel stlye.

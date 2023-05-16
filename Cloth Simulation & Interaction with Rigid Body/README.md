@@ -4,7 +4,8 @@
 
 
 * Above all, this is a simulation of a piece of cloth which could move and deform.
-* What's more both of them are based on Mass-Spring System and the Triangle Mesh.  
+* What's more, both of them are based on Mass-Spring System and the Triangle Mesh.  
+* Interaction with a rigid ball is also achieved.
   
 There are two methods applied to it.  
   ---

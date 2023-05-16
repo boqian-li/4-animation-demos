@@ -1,3 +1,3 @@
-<video id="video" controls="" preload="none">
-      <source id="mp4" src="https://github.com/ActonLee/4-animation-demos/blob/main/Rigid%20Body%20Dynamics--Flying%20Bunny/Bunny-rigid.mp4" type="video/mp4">
+<video id="video" controls="" preload="none" poster="https://github.com/ActonLee/4-animation-demos/blob/main/Rigid%20Body%20Dynamics--Flying%20Bunny/Bunny-rigid.mp4-poster.png">
+      <source id="mp4" src="https://github.com/ActonLee/4-animation-demos/blob/main/Rigid%20Body%20Dynamics--Flying%20Bunny/Bunny-rigid.mp4.mp4" type="video/mp4">
       </video>

@@ -9,7 +9,7 @@
   
 There are two methods applied to it.  
   ---
-* For stability, Implicit Integration method is chosen in stead of Explicit Integration.
+* For stability, Implicit Integration method is chosen instead of Explicit Integration.
 * To solve for the expected position after every step, Newton-Raphson Method is applied for optimization.
 * To solve the Linear equations, Jacobi method with Chebyshev Acceleration is implemented.  
   

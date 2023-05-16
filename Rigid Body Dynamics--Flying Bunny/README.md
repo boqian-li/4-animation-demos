@@ -1,1 +1,1 @@
-![](/Rigid Body Dynamics--Flying Bunny.gif)
+![](/Bunny-rigid.gif)

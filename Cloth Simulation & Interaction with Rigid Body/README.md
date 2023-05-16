@@ -1,16 +1,16 @@
 # Cloth Simulation & Interaction with Rigid Body
 
 ![](Cloth.gif)
-/
+
 
 * Above all, this is a simulation of a piece of cloth which could move and deform.
-* What's more both of them are based on Mass-Spring System and the Triangle Mesh.
+* What's more both of them are based on Mass-Spring System and the Triangle Mesh.  
 
-There are two methods applied to it.
+There are two methods applied to it.  
 
 * For stability, Implicit Integration method is chosen in stead of Explicit Integration.
 * To solve for the expected position after every step, Newton-Raphson Method is applied for optimization.
-* To solve the Linear equations, Jacobi method with Chebyshev Acceleration is implemented.
+* To solve the Linear equations, Jacobi method with Chebyshev Acceleration is implemented.  
  
  
 
